@@ -3,3 +3,5 @@ The NewsUI is a open-source interface for News Apps that would like to have a sl
 Warning, the interface is writen in Swift/Playground
 
 This user interface/experience is used in our app called GEO which bring the top news of this week in a brief and simple view
+
+NewsUI v2.0 ---> Will include a few minor improvements

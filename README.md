@@ -1,4 +1,4 @@
-# NewsUI v1.0
+# NewsUI v1.0.1
 The NewsUI is a open-source interface and framework for news apps that would like to have a sleek but vintage newspaper interface!
 Warning, the interface is writen in Swift/Playground
 
